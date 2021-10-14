@@ -1,4 +1,4 @@
-package eek01day04;
+package week01day04;
 
 public class Hello {
 
